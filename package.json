@@ -1,0 +1,24 @@
+{
+  "name": "w4d3-canvas",
+  "version": "1.0.0",
+  "description": "---\r w4d3: Canvas\r date: 17/11/2021\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvadorSG/Pacman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalvadorSG/Pacman/issues"
+  },
+  "homepage": "https://github.com/SalvadorSG/Pacman#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "lodash": "^4.17.21"
+  }
+}
